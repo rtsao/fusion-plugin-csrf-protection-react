@@ -34,8 +34,10 @@
     "eslint-plugin-react": "^7.1.0",
     "fusion-core": "^0.1.4",
     "fusion-react": "^0.1.4",
+    "fusion-react-async": "0.1.4",
     "prettier": "1.4.2",
     "react": "^16.0.0",
+    "react-dom": "16.0.0",
     "tape-cup": "^4.7.1",
     "unitest": "^1.0.0"
   },
